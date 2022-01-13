@@ -1,0 +1,74 @@
+[
+    {
+        "img_produk" : "hoodie1.png",
+        "nm_produk" : "Hoodie Chand Keylie",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.200.000,-"
+    },
+    {
+        "img_produk" : "hoodie2.png",
+        "nm_produk" : "Hoodie Amogo karimo",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.350.000,-"
+    },
+    {
+        "img_produk" : "hoodie3.png",
+        "nm_produk" : "Hoodie Garden Buty",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.110.000,-"
+    },
+    {
+        "img_produk" : "hoodie4.png",
+        "nm_produk" : "Hoodie American XX",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 2.220.000,-"
+    },
+    {
+        "img_produk" : "hoodie5.png",
+        "nm_produk" : "Hoodie Suigutsi IX",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.240.000,-"
+    },
+    {
+        "img_produk" : "hoodie6.png",
+        "nm_produk" : "Hoodie Ndato Nadomo",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.230.000,-"
+    },
+    {
+        "img_produk" : "hoodie7.png",
+        "nm_produk" : "Hoodie Strost Ewa",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.540.000,-"
+    },
+    {
+        "img_produk" : "hoodie8.png",
+        "nm_produk" : "Hoodie Zenbu Nagale",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 2.300.000,-"
+    },
+    {
+        "img_produk" : "hoodie9.png",
+        "nm_produk" : "Hoodie Ikitekusa II",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.570.000,-"
+    },
+    {
+        "img_produk" : "hoodie10.png",
+        "nm_produk" : "Hoodie Doestos Hachiko",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.256.000,-"
+    },
+    {
+        "img_produk" : "hoodie11.png",
+        "nm_produk" : "Hoodie Kana Boom",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.245.000,-"
+    },
+    {
+        "img_produk" : "hoodie12.png",
+        "nm_produk" : "Hoodie Flow Donts",
+        "desc_produk" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "harga_produk" : "Rp. 1.875.000,-"
+    }
+]

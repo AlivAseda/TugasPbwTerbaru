@@ -1,0 +1,17 @@
+[
+    {
+        "img_produk" : "hoodie18.png",
+        "nm_produk" : "Hoodie Erika Brown",
+        "hrg_produk" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    },
+    {
+        "img_produk" : "hoodie19.png",
+        "nm_produk" : "Hoodie Keylie Black",
+        "hrg_produk" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    },
+    {
+        "img_produk" : "hoodie15.png",
+        "nm_produk" : "Hoodie Just Friend",
+        "hrg_produk" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    }
+]
